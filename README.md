@@ -1,3 +1,3 @@
 # test-a-thon
 
-Sample document
+EPAM Auto Hackathon
